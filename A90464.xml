@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect diurnall of the passages of the souldiers, that are under the command of the Lord Say in Oxford. From the 9th. of Septem. to the 6th of Octob.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90464</idno><idno type="EEBO-CITATION">99859591</idno>
+  <idno type="VID">111683</idno>
+  <idno type="EEBO-PROQUEST">2248519149</idno>
+  
+            <idno type="STC">Wing P1487</idno>
+            <idno type="STC">Thomason E122_13</idno>
+            <idno type="STC">ESTC R13986</idno>
+            <idno type="PROQUEST">99859591</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859591e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111683)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect diurnall of the passages of the souldiers, that are under the command of the Lord Say in Oxford. From the 9th. of Septem. to the 6th of Octob.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for Ralph Mabb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Saye and Sele, William Fiennes, --  Viscount, 1582-1662.</term>
+               <term type="geographic_name">Oxford (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111683:1"/>
+            <p>
+               <hi>A Perfect</hi> DIURNALL <hi>OF</hi> THE PASSAGES Of the SOULDIERS, that are un<g ref="char:EOLhyphen"/>der the COMMAND OF THE LORD SAY In <hi>OXFORD.</hi>
+            </p>
+            <p>From the 9<seg rend="sup">th.</seg> of <hi>Septem.</hi> to the 6<seg rend="sup">th.</seg> of <hi>Octob.</hi>
+            </p>
+            <figure>
+               <figDesc>two angels facing central sun</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed, for RALPH MABB, 164<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb facs="tcp:111683:2"/>
+            <pb n="1" facs="tcp:111683:2"/>
+            <head>A perfect and true Relation of the daily Passages and Proceedings of the souldiers which are under the Lord <hi>Sayes</hi> Command in <hi>Oxford,</hi> From the 9. of <hi>September,</hi> to the 6. of <hi>October.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N Friday, the ninth of <hi>September,</hi> upon notice of great forces comming to <hi>Oxford</hi> there was a resolution in the meeting of the Heads of Houses, to lay downe all Armes, and to send a Letter to the Lord <hi>Say,</hi> who was in the way with them at <hi>Alesbury,</hi> as it was reported, which Letter met great Forces at <hi>Alesbury,</hi> but not the Lord <hi>Say.</hi>
+            </p>
+            <p>On <hi>Saturday,</hi> all the Doctors (except Doctor <hi>Radcliffe</hi> and <hi>Bambridge</hi>) went aside, the same day Sir <hi>John Byron</hi> with his company, about 200. who had beene here a fortnight, went away towards the King, and with him Doctor <hi>Turner▪</hi> Doctor <hi>Nurse, Gil. Wats▪</hi> and some others. Doctor <hi>Tur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> was on the way taken, and carried to <hi>London,</hi> and is now (as it is said) in <hi>Newgate.</hi> The same day Doctor <hi>Pink,</hi> Pro-vice chancellor, went to <hi>Alesbury</hi> to put himselfe into the hands of the Lord <hi>Say,</hi> but met him not, but was apprehended by the souldiers there, and carried away to <hi>London,</hi> and is now in the <hi>Gate<g ref="char:EOLhyphen"/>house.</hi>
+            </p>
+            <p>On <hi>Sunday</hi> we had no Sermon at Saint <hi>Maries,</hi> the Doctors and Proctors and Preachers being gone.</p>
+            <p>On <hi>Munday</hi> came in Colonell <hi>Goodwin</hi> and Colonell <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rown▪</hi> with about 500. horse▪ compleatly armed, they stayed till <hi>Wednesday,</hi> and did no harme.</p>
+            <p>On <hi>Wednesday</hi> in the forenoone▪ all left <hi>Oxford,</hi> and went towards the <hi>North;</hi> on the same day in the afternoone, came
+<pb n="2" facs="tcp:111683:3"/> in the Lord <hi>Say,</hi> with about two hundred Horsmen, well armed, with an intent, as it seemes, to search for Armes in all Colledges, and in suspected houses, and to know what is become of Colledge Plate, whether sent away, or alienated, from the Colledges.</p>
+            <p>That night they searched <hi>New-Colledge,</hi> where they found some armes and tooke them away.</p>
+            <p>On <hi>Thursday</hi> they searched <hi>Christ-Chu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch,</hi> and found no<g ref="char:EOLhyphen"/>thing, not in the Treasury it selfe, which was broken open but at night, upon some information, they found under ground, covered with a pile of Wood some Armes, and the Colledge Plate, which was all taken away, with intent, as it is said, to preserve the Plate for the future use of the Col<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>This day <hi>Napiers</hi> House was searched▪ but little found.</p>
+            <p>The same day they went to <hi>Corpus Christi Colledge,</hi> and de<g ref="char:EOLhyphen"/>manded their Armes, which were delivered, and so without search left the Colledge.</p>
+            <p>The same day they went to <hi>Mert.</hi> Colledge, and being as<g ref="char:EOLhyphen"/>sured that they had no Armes, and that their Plate was safe▪ in their custody, they left the Colledge.</p>
+            <div type="part">
+               <head>September 16.</head>
+               <p>ON, <hi>Friday</hi> they searched a House by Christ-Church, where they found seven Trunks of Doctor <hi>Fells,</hi> and others, which they tooke, but have restored them.</p>
+               <p>On the same day they searched Master <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mas Smiths</hi> house, where they found a Chest of Plate, belonging to Universsity Colledge▪ which they tooke, but (as it is said) will be restored againe.</p>
+               <p>The same day they went to <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eter</hi> Colledge, and deman<g ref="char:EOLhyphen"/>ded Armes, and an account of their Plate, being answered▪ that there was no armes there, but Colledge Holberts, and that the Plate was all within the walls, and above ground, they departed▪ having a good opinion of that Colledge, which is very quiet and safe.</p>
+               <p>Thence they went to <hi>Jesus</hi> Colledge, which (not receiving the like account) they searched throughout breaking o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en al
+<pb n="3" facs="tcp:111683:3"/> Chambers▪ Studies, Trunks and Desks, and found one Tan<g ref="char:EOLhyphen"/>kerd and two Pikes, which they tooke.</p>
+               <p>The same day they went to <hi>Lincoln</hi> and <hi>Braz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nnose▪</hi> receiving the like account as in <hi>Exceter</hi> Colledge, they departed▪ ex<g ref="char:EOLhyphen"/>cepting <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat in <hi>Brazennose</hi> they had some Armes, all the soul<g ref="char:EOLhyphen"/>diers that saw <hi>Ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter</hi> Colledge did commend it, especially for the Chappell.</p>
+               <p>The same day they went to Saint <hi>Johns,</hi> where they re<g ref="char:EOLhyphen"/>ceived some Armes, and a faire account of the Plate▪ as safe in the Colledge, and so departed.</p>
+               <p>The same day the Lord <hi>Say</hi> had a view of the Towne Armes, in broken Hayes, intending to have a second view, and to settle the <hi>Militia</hi> there.</p>
+               <p>The same day some Goods of Doctor <hi>Nurses,</hi> and some Trunks of Doctor <hi>Frew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns,</hi> were upon information, found at <hi>Heddington,</hi> and so brought in.</p>
+               <p>On <hi>Saturday,</hi> New Colledge was searched againe, but no<g ref="char:EOLhyphen"/>thing found; this day also <hi>Magdalen</hi> Colledge was visited, the Armes given up, and the Presidents Lodging searched.</p>
+               <p>On <hi>Sunday:</hi> There were one Sermon at St. <hi>Maries,</hi> and two at Allhallowes, where most of the Souldiers came, and had a guard of Musketteeres at each doore.</p>
+               <p>The same day some Souldiers entred into St. <hi>Michaels</hi> Church at Service time, and required the Surplice, and Masse-booke, as they called it, but were kept off by the Wo<g ref="char:EOLhyphen"/>men and others: Divers Country Churches about, have also bin entred into, and the Surplices taken away.</p>
+               <p>On <hi>Munday,</hi> They went some to <hi>Godstow,</hi> and tooke away ten excellent Horses out of Sir <hi>William Walters</hi> Stable.</p>
+               <p>On <hi>Tuesday,</hi> The whole company left <hi>Oxford▪</hi> except about thirty men, as they passed before Saint <hi>Maries</hi> doore, they shot downe with much adoe, the head of the Virgin <hi>Mary</hi> over the doore, which much moved the people.</p>
+               <p>Thence they went to Allsoules-Gate, to shoot at the Statue over it but were set upon by two or three hundred men and women, who with stones bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them all off, and hissed them all along the street as farre as East-Gate.</p>
+               <p>On <hi>Wednesday</hi> The rest went away with the Carriers Wag<g ref="char:EOLhyphen"/>gon,
+<pb n="4" facs="tcp:111683:4"/> wherein they carried one Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st and two T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urks o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Plate which was taken up in <hi>Oxford</hi> the Chest belonging to Universitie Colledge, which is sent for back againe by the Lord <hi>Say.</hi>
+               </p>
+               <p>On <hi>Thursday</hi> About six hundred Foot came into <hi>Oxford</hi> and lodged there, all belonging to the Regiment of the Lord <hi>Say:</hi> That night the Lord <hi>Say</hi> came with a company of Horsemen from his House in the Country to <hi>Oxford,</hi> to see and dispose of the 600 Foote.</p>
+            </div>
+            <div type="part">
+               <head>September, 23.</head>
+               <p>ON <hi>Friday,</hi> The Lord <hi>Say</hi> with some of his Company went to <hi>Baliol</hi> Colledge, and received a few Armes, and searched the Masters Lodgings.</p>
+               <p>The same day he went to <hi>Trinity</hi> Colledge, where nothing was done, thence to <hi>Wadham,</hi> where they had a few Armes, and so returned.</p>
+               <p>On <hi>Saturday,</hi> The Lord <hi>Say</hi> sent for the heads of Houses, that were at home, and Deputy heads to his Lodging, where after some expression of his care and affection to the Uni<g ref="char:EOLhyphen"/>versitie, he asked them whether they liked to have a Garri<g ref="char:EOLhyphen"/>son or no, for the safety of the place, to which it was answe<g ref="char:EOLhyphen"/>red, that the very name of a Garrison would keepe off the Schollers that were gone, and drive the rest after; and un<g ref="char:EOLhyphen"/>doe both the Universitie and Towne, and therefore they de<g ref="char:EOLhyphen"/>sired (as the Towne had done before) that there might be none, which was yeelded to, with a charge, that they should by all meanes helpe to prevent any future disturbances of the peace of the place.</p>
+               <p>On <hi>Munday Septem.</hi> 26. The <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>00 Souldiers that came in on Thursday, left <hi>Oxford</hi> and went towards <hi>Worcester.</hi>
+               </p>
+               <p>On <hi>Tuesday,</hi> Came in about 2600. Foot.</p>
+               <p>On <hi>Wednesday</hi> the Fast day, part of the 2600, went toward <hi>Worcester,</hi> and the rest on Thursday.</p>
+               <p>On <hi>Thursday,</hi> Came in about 2000. Foot more and lodg<g ref="char:EOLhyphen"/>ed here, being of 2 Companies, some Blew-coates and some Gray-coates, most of them stout and able men, and com<g ref="char:EOLhyphen"/>pleatly Armed.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:111683:4"/>
+               <head>September 30.</head>
+               <p>ON <hi>Friday</hi> some difference was betweene some of the Blew Coats and some of the Gray Coats, but the matter was taken up, without any mischiefe done.</p>
+               <p>On <hi>Saturday,</hi> being the first of <hi>October,</hi> some of the said souldiers were trained in the fields, by <hi>Wadham</hi> Colledge and nothing else done.</p>
+               <p>On <hi>Munday,</hi> the third of <hi>October,</hi> all the aforementioned souldiers left <hi>Oxford,</hi> and went towards <hi>Worcester.</hi>
+               </p>
+               <p>The same day came 120. Horsemen, compleatly Armed, and went away towards <hi>Worcester</hi> on <hi>Tuesday.</hi>
+               </p>
+               <p>On <hi>Thursday</hi> came 60. Horsemen, compleatly Armed, and passed on the same day towards <hi>Worcester.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
